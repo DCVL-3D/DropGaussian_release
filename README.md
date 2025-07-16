@@ -137,13 +137,11 @@ Our implementation and experiments are built on top of open-source GitHub reposi
 ## Citation
 If you find our work useful for your project, please consider citing the following paper.
 ```
-@misc{park2025dropgaussianstructuralregularizationsparseview,
-      title={DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting}, 
-      author={Hyunwoo Park and Gun Ryu and Wonjun Kim},
-      year={2025},
-      eprint={2504.00773},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.00773}, 
+@inproceedings{park2025dropgaussian,
+  title={Dropgaussian: Structural regularization for sparse-view gaussian splatting},
+  author={Park, Hyunwoo and Ryu, Gun and Kim, Wonjun},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={21600--21609},
+  year={2025}
 }
 ```
